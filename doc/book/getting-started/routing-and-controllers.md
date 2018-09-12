@@ -164,7 +164,7 @@ It's time to build the view and the model layer.
 To integrate the view into our application, we need to create some view script
 files. These files will be executed by the `DefaultViewStrategy` and will be
 passed any variables or view models that are returned from the controller action
-method. These view scripts are stored in our module’s views directory within a
+method. These view scripts are stored in our module’s view directory within a
 directory named after the controller. Create these four empty files now:
 
 - `module/Album/view/album/album/index.phtml`
